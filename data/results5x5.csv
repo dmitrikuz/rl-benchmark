@@ -1,0 +1,8 @@
+name,mean reward,mean path length,mean collisions,mean rotations
+SARSA,6.22039,11.0,0.0,3.0
+Q-learning,6.22039,11.0,0.0,3.0
+DQN,6.22039,11.0,0.0,3.0
+DDQN,6.22039,11.0,0.0,3.0
+D3QN,6.22039,11.0,0.0,3.0
+Actor-Critic,6.05899,13.125,0.125,5.0
+REINFORCE,6.01805,14.375,0.125,5.5
