@@ -34,6 +34,3 @@ def test_usual(agent, env_name, epochs=30):
         
     env.close()
     return get_data(env)
-
-
-
